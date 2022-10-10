@@ -8,6 +8,7 @@ import BabyInfo from "./BabyInfo";
 import InvitationQuote from "./InvitationQuote";
 import Timeline from "./Timeline";
 import BabyQuote from "./BabyQuote";
+import BabiesQuote from "./BabiesQuote";
 import CountDown from "./CountDown";
 import Compliments from "./Compliments";
 import InviteNote from "./InviteNote";
@@ -48,6 +49,7 @@ function App() {
             <Timeline />
             <BabyQuote />
             <CountDown />
+            <BabiesQuote />
             <Compliments />
             <InviteNote />
             <DeveloperInfo />

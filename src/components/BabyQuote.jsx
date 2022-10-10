@@ -4,7 +4,7 @@ import { faHeart } from "@fortawesome/free-regular-svg-icons";
 import "../styles/BabyQuote.css";
 
 function BabyQuote() {
-    const date1 = new Date("2022 7 22 2:00 PM");
+    const date1 = new Date("2022 10 13 2:00 PM");
     const date2 = new Date();
 
     return (
