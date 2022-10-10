@@ -160,7 +160,7 @@ function BabyInfo() {
                         ) : (
                             <h3>Mohammedi Mariyah urf Safiyyah</h3>
                         )}
-                        <h5 className="dob">Date of Birth: 31/01/2022.</h5>
+                        <h5 className="dob">Date of Birth: 22/04/2022.</h5>
                         <h4>D/o. Mrs. & Mr. Maulana Ismail Raza Mujeebi</h4>
                         <h5>
                             Paternal Grand D/o. Janab CN Abdul Khadeer Razvi
